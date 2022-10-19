@@ -14,6 +14,7 @@ We accept any plugins and integrations with gosh for any third party tools (proj
 Please see issues for more details, but you are welcome to come up with your own ideas.
 
 # How to Contribute to this repository
+You can use our main [GOSH repository](https://github.com/gosh-sh/gosh) to make forks and find actual code.
 Please send a [GitHub Pull Request to GOSH Hacktoberfest](https://github.com/gosh-sh/hacktoberfest2022) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)). 
 Please follow our coding conventions (below) and make sure all of your commits are atomic (one feature per commit).
 Please make tests!
@@ -53,4 +54,4 @@ Prettier with .prettierrc
 If on top of commiting to this repository you will also push your commits to the GOSH repository on GOSH, we will distribute some additional; rewards in the form of future GOSH Tokens as per: [GOSH DAO Contribution Guide](https://app.gosh.sh/o/gosh/r/gosh/blobs/view/main/GOSH_DAO_Contribution_Guide.md)
 
 
-# Note
+
